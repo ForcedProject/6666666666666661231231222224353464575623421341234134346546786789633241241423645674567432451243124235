@@ -23,7 +23,6 @@ local Anti = Instance.new("TextButton")
 
 Lawn.Name = "Lawn"
 Lawn.Parent = game.CoreGui
-Lawn.Enabled = false
 Lawn.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Lawn.ResetOnSpawn = false
 
