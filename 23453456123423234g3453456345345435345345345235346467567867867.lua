@@ -29,7 +29,7 @@ Main.Parent = Strongman
 Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Main.Position = UDim2.new(0.00262906309, 0, 0.0100502521, 0)
 Main.Size = UDim2.new(0.0439770557, 0, 0.0532663316, 0)
-Main.Visible = false
+Main.Visible = true
 Main.ZIndex = 5
 
 Toggle.Name = "Toggle"
